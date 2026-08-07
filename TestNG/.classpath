@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/byte-buddy-1.18.8-jdk5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/byte-buddy-1.18.8-jdk5-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/error_prone_annotations-2.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/error_prone_annotations-2.5.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/failureaccess-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/failureaccess-1.0.3-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/guava-33.6.0-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/guava-33.6.0-jre-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/j2objc-annotations-2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/j2objc-annotations-2.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/jspecify-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/jspecify-1.0.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-api-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-api-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-common-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-common-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-context-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-context-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-exporter-logging-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-exporter-logging-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-common-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-common-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-extension-autoconfigure-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-extension-autoconfigure-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-extension-autoconfigure-spi-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-extension-autoconfigure-spi-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-logs-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-logs-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-metrics-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-metrics-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-trace-1.62.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/opentelemetry-sdk-trace-1.62.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-api-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-api-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-chrome-driver-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-chrome-driver-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-chromium-driver-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-chromium-driver-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-devtools-v146-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-devtools-v146-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-devtools-v147-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-devtools-v147-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-devtools-v148-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-devtools-v148-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-edge-driver-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-edge-driver-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-firefox-driver-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-firefox-driver-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-http-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-http-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-ie-driver-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-ie-driver-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-java-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-java-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-json-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-json-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-manager-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-manager-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-os-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-os-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-remote-driver-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-remote-driver-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-safari-driver-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-safari-driver-4.44.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-support-4.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/s/selenium-support-4.44.0-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
