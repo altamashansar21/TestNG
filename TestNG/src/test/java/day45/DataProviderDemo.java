@@ -46,14 +46,14 @@ public class DataProviderDemo {
 	}
 	
 	@DataProvider (name = "dp")
-	Object [][] loginData () {
-	
-	 Object data [][]={
-		{"altamashansar@gmail.com", "test123"},
-		{"altamashansar12@gmail.com", "test@123"},
-		{"imranrander213@gmail.com", "Test@123"},
-		
-	};
+	 
+	Object [] [] LoginData ()
+	{
+		Object data [][] = {
+				{"altamashansar@gmail.com", "test123"},
+				{"altamashansar12@gmail.com", "test@123"},
+				{"imranrander213@gmail.com", "Test@123"},
+		};
 		return data;
 	}
 	
