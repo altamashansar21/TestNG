@@ -45,7 +45,7 @@ public class DataProviderDemo {
 		driver.close();
 	}
 	
-	@DataProvider (name = "dp")
+	@DataProvider (name = "dp", indices = {0,1} )
 	 
 	Object [] [] LoginData ()
 	{
